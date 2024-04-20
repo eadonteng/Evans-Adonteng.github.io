@@ -11,7 +11,9 @@ farkle_original.cpp - The original version of the Farkle game code.
 
 # /enhanced_artifacts
 farkle_enhanced_software_design.cpp - Showcases enhancements in software design and engineering.
+
 farkle_enhanced_databases.cpp - Demonstrates integration with SQLite for managing high scores.
+
 farkle_enhanced_algorithms.cpp - Contains optimizations related to game logic and scoring algorithms.
 
 #/documentation

@@ -28,7 +28,7 @@ Explore /enhanced_artifacts: Examine each enhanced version to see specific impro
 Read /documentation/narrative.md: Gain insights into the technical decisions, implementation details, and how these enhancements align with professional and academic goals.
 Watch /videos/Code Review Video: Visualize the enhancements in action and understand the practical applications of the changes made.
 
-#Enhancements Overview
+# Enhancements Overview
 Each enhancement in the Farkle game has been designed to address distinct aspects of game development:
 
 Software Design and Engineering: Focuses on improving the architecture of the game, ensuring better modularity, readability, and maintainability.

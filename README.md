@@ -20,12 +20,15 @@ farkle_enhanced_algorithms and data structure.cpp - Contains optimizations relat
 farkle_enhanced_narratives - Comprehensive documents explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.
 
 # /videos
-Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game (replace "#" with the actual link).
+Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 
 # How to Navigate
 Start with /original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
+
 Explore /enhanced_artifacts: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
+
 Read /documentation/narrative.md: Gain insights into the technical decisions, implementation details, and how these enhancements align with professional and academic goals.
+
 Watch /videos/Code Review Video: Visualize the enhancements in action and understand the practical applications of the changes made.
 
 # Enhancements Overview

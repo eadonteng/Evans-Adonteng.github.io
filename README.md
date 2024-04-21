@@ -25,9 +25,9 @@ Code Review Video - A link to a video where I discuss the code enhancements and 
 # How to Navigate
 Start with /original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
 
-Explore /enhanced_artifacts: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
+Explore /enhanced_artifact: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
 
-Read /documentation/narrative.md: Gain insights into the technical decisions, implementation details, and how these enhancements align with professional and academic goals.
+Read /documentation/farkle_enhanaced_narratives: Gain insights into the technical decisions, implementation details, and how these enhancements align with professional and academic goals.
 
 Watch /videos/Code Review Video: Visualize the enhancements in action and understand the practical applications of the changes made.
 

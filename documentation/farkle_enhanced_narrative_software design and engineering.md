@@ -29,7 +29,7 @@ The enhancements made to the Farkle game code align closely with the overarching
 •	Well-Founded and Innovative Techniques: The enhancement process employed both well-founded techniques and innovative approaches to address design challenges and improve the functionality of the Farkle game code. By leveraging established software engineering principles and exploring novel solutions to specific problems, the artifact showcases a balanced blend of tradition and innovation in software development practices.
 Reflection on the Enhancement Process
 
-# The process of enhancing and modifying the Farkle game code proved to be both challenging and rewarding. Throughout the enhancement process, several key insights and lessons were gleaned:
+The process of enhancing and modifying the Farkle game code proved to be both challenging and rewarding. Throughout the enhancement process, several key insights and lessons were gleaned:
 
 •	Importance of Clear Documentation: Clear and comprehensive documentation is paramount in facilitating code comprehension and maintenance. By documenting each function and component thoroughly, I was able to enhance the overall readability and usability of the codebase.
 

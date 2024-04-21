@@ -1,6 +1,6 @@
 // Farkle Game - Enhanced Version
  // Author: Evans Adonteng
- // Date: 06 April 2024
+ // Date: 21 April 2024
  // Version: 3.0
 
 // Farkle Game with SQLite Database Integration for High Scores

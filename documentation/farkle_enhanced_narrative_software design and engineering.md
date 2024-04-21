@@ -1,7 +1,7 @@
-Enhanced Farkle Game Narrative
-Evans Adonteng
-Date: 21 April 2024
-Version: 1.0 
+# Enhanced Farkle Game Narrative
+## Evans Adonteng
+## Date: 21 April 2024
+## Version: 1.0 
 
 # Artifact Overview
 The artifact presented herein is an enhanced rendition of the classic Farkle game code. Farkle is a popular dice game where players roll dice to accumulate points, with the ultimate objective of reaching a predetermined winning score. 

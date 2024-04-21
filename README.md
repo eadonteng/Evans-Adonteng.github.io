@@ -6,27 +6,27 @@ Welcome to my ePortfolio repository for the Farkle Game Project. This repository
 # Repository Structure
 This repository is organized to clearly present the original game code alongside its enhancements in three key areas:
 
-# /original_artifact
+# original_artifact
 farkle_original.cpp - The original version of the Farkle game code.
 
-# /enhanced_artifacts
+# enhanced_artifacts
 farkle_enhanced_software design and engineering.cpp - Showcases enhancements in software design and engineering.
 
 farkle_enhanced_databases.cpp - Demonstrates integration with SQLite for managing high scores.
 
 farkle_enhanced_algorithms and data structure.cpp - Contains optimizations related to game logic and scoring algorithms.
 
-# /documentation
+# documentation
 farkle_enhanced_narratives - Comprehensive documents explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.
 
 farkle_rules.txt - Game rules that outline how to play Farkle, ensuring all players and reviewers can easily understand the gameplay mechanics.
 
 Professional_Self_Assessment.md — A reflective overview of my professional development through the Computer Science program.
 
-# /videos
+# videos
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 
-# /Professional Self-Assessment
+# Professional Self-Assessment
 To gain insight into my professional growth and how I've leveraged my educational experiences to prepare for a career in computer science, please refer to my Professional Self-Assessment.
 
 # How to Navigate

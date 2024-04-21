@@ -4,7 +4,7 @@
 Welcome to my ePortfolio repository for the Farkle Game Project. This repository contains the original and enhanced versions of the Farkle game, demonstrating my application of advanced programming techniques, database integration, and algorithm optimization to improve the classic dice game.
 
 # Repository Structure
-This repository is organized to clearly present the original game code alongside its enhancements in three key areas:
+This repository is thoughtfully organized to showcase the evolution and enhancement of the Farkle game:
 
 # original_artifact
 farkle_original.cpp - The original version of the Farkle game code.

@@ -21,6 +21,8 @@ farkle_enhanced_narratives - Comprehensive documents explaining the journey, rat
 
 farkle_rules.txt - Game rules that outline how to play Farkle, ensuring all players and reviewers can easily understand the gameplay mechanics.
 
+Professional_Self_Assessment.md — A reflective overview of my professional development through the Computer Science program.
+
 # /videos
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 

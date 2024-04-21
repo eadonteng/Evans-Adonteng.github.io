@@ -25,7 +25,7 @@ farkle_rules.txt - Game rules that outline how to play Farkle, ensuring all play
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 
 # How to Navigate
-Start with /original_artifact: Review farkle_original.cpp and the farkle_rules.txt to understand the baseline functionality of the game.
+Start with /original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
 
 Explore /enhanced_artifact: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
 

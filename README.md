@@ -22,7 +22,7 @@ farkle_rules.txt - Game rules that outline how to play Farkle, ensuring all play
 Professional_Self_Assessment.md — A reflective overview of my professional development through the Computer Science program.
 
 ## videos
-https://app.clipchamp.com/editor/b8f55f8f-4f82-4a2b-b39d-7b6378af224d -Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
+https://www.youtube.com/watch?v=IS9j9rOTcik -Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 
 # Professional Self-Assessment
 To gain insight into my professional growth and how I've leveraged my educational experiences to prepare for a career in computer science, please refer to my Professional Self-Assessment.

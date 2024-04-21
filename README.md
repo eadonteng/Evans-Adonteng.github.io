@@ -17,7 +17,7 @@ farkle_enhanced_databases.cpp - Demonstrates integration with SQLite for managin
 farkle_enhanced_algorithms.cpp - Contains optimizations related to game logic and scoring algorithms.
 
 # /documentation
-narrative.md - A comprehensive document explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.
+farkle_enhanced_narrativesn - A comprehensive document explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.
 
 # /videos
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game (replace "#" with the actual link).

@@ -1,7 +1,7 @@
 # Evans-Adonteng.github.io 
 
 # Enhanced Farkle Game Project
-Welcome to my ePortfolio repository for the Farkle Game Project. This repository contains the original and enhanced versions of the Farkle game, demonstrating my application of advanced programming techniques, database integration, and algorithm optimization to improve the classic dice game.
+Welcome to my ePortfolio, which focuses on comprehensive enhancements applied to a single artifact: the Farkle game. This repository demonstrates my ability to enhance one project in multiple dimensions, highlighting my skills in software engineering, databases, and algorithms.
 
 # Repository Structure
 This repository is thoughtfully organized to showcase the evolution and enhancement of the Farkle game:

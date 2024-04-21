@@ -28,9 +28,9 @@ Code Review Video - A link to a video where I discuss the code enhancements and 
 To gain insight into my professional growth and how I've leveraged my educational experiences to prepare for a career in computer science, please refer to my Professional Self-Assessment.
 
 # How to Navigate
-Understanding the Game: Start by reviewing the farkle_rules.txt in the /documentation folder to understand the basic rules and gameplay.
+Understanding the Game: Start by reviewing the farkle_rules.txt in the documentation folder to understand the basic rules and gameplay.
 
-Start with original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
+Review original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
 
 Explore enhanced_artifact: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
 

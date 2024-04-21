@@ -1,5 +1,3 @@
-# Evans-Adonteng.github.io 
-
 # Enhanced Farkle Game Project
 Welcome to my ePortfolio, which focuses on comprehensive enhancements applied to a single artifact: the Farkle game. This repository demonstrates my ability to enhance one project in multiple dimensions, highlighting my skills in software engineering, databases, and algorithms.
 

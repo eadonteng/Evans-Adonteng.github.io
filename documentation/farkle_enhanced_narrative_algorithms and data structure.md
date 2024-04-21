@@ -1,27 +1,42 @@
 Enhanced Farkle Game Narrative
-Evans Adonteng 
-Date: 21 April 2024 
-Version: 2.0
+Evans Adonteng
+Date: 21 April 2024
+Version: 1.0 
 
-# Introduction
-In this project, I focused on enhancing a console-based Farkle game initially developed during my computer science coursework. The objective was to apply advanced programming concepts, improve the game's performance and user experience, and ensure adherence to professional software development standards.
+# Artifact Overview
+The artifact presented herein is an enhanced rendition of the classic Farkle game code. Farkle is a popular dice game where players roll dice to accumulate points, with the ultimate objective of reaching a predetermined winning score. 
 
-# Project Enhancements
-## Collaborative Development Strategies
-Objective and Outcome Alignment: I employed strategies for building collaborative environments to support organizational decision-making in the field of computer science. This involved soliciting feedback from diverse audiences, including co-workers and instructors, to gather insights and perspectives on potential enhancements to the Farkle game.
+# Justification for Inclusion
+The decision to include this artifact in my ePortfolio is grounded in its demonstration of advanced skills and abilities in software development, particularly within the domain of software design and engineering. This artifact serves as a testament to proficiency in various aspects of software development, including but not limited to:
 
-Description and Implementation: Throughout the enhancement process, I actively engaged with peers and mentors, seeking input on proposed design changes and evaluating the feasibility of various implementation approaches. Collaborative brainstorming sessions facilitated the identification of optimal solutions and the alignment of project goals with industry standards and best practices.
+•	Modular Design: The code has been structured into modular components, with each function serving a specific purpose. This modular design approach enhances code readability, maintainability, and scalability. By breaking down the code into smaller, cohesive units, it becomes easier to understand and modify, facilitating collaboration among developers.
+
+•	Optimized Scoring Logic: A key enhancement in this version of the Farkle game code lies in the optimization of the scoring logic. Leveraging efficient data structures such as unordered_map, the scoring algorithm has been optimized for performance without compromising accuracy. This optimization contributes to faster execution times, thereby enhancing the overall gaming experience for players.
+
+•	Comprehensive Documentation: Thorough and well-structured documentation accompanies the code, providing insights into its functionality, usage, and internal workings. Each function and component is meticulously documented, elucidating its purpose, input parameters, and expected behavior. This comprehensive documentation not only aids in understanding the code but also serves as a valuable resource for future maintenance and troubleshooting.
+
+•	Input Validation: The code incorporates robust input validation mechanisms to ensure the integrity and consistency of user inputs. By validating user input against predefined criteria, potential errors and inconsistencies are preemptively mitigated, thereby enhancing the reliability and robustness of the game.
+
+# Alignment with Course Outcomes
+The enhancements made to the Farkle game code align closely with the overarching objectives of the CS 499 course, particularly in the realm of software design and engineering. These enhancements demonstrate proficiency in the following areas:
+
+•	Collaborative Environments: Throughout the enhancement process, collaboration among team members was fostered through regular communication and feedback exchange. By soliciting input from diverse audiences, decisions regarding design choices and implementation strategies were informed by multiple perspectives, resulting in a more refined and robust solution.
+
+•	Professional-Quality Communications: The narrative accompanying the artifact has been crafted to deliver clear and coherent explanations of the artifact's selection, enhancements made, and the enhancement process. It is tailored to specific audiences, including peers, instructors, and potential employers, and is adapted to the context of an ePortfolio showcasing software development skills.
+
+•	Algorithmic Principles and Computing Solutions: The enhancements made to the Farkle game code reflect a deep understanding of algorithmic principles and computing practices. Design choices regarding data structures and algorithms were carefully evaluated, considering trade-offs in terms of performance, complexity, and scalability. The iterative development process allowed for the refinement and optimization of computing solutions to solve the given problem effectively.
+
+•	Well-Founded and Innovative Techniques: The enhancement process employed both well-founded techniques and innovative approaches to address design challenges and improve the functionality of the Farkle game code. By leveraging established software engineering principles and exploring novel solutions to specific problems, the artifact showcases a balanced blend of tradition and innovation in software development practices.
+Reflection on the Enhancement Process
+
+# The process of enhancing and modifying the Farkle game code proved to be both challenging and rewarding. Throughout the enhancement process, several key insights and lessons were gleaned:
+
+•	Importance of Clear Documentation: Clear and comprehensive documentation is paramount in facilitating code comprehension and maintenance. By documenting each function and component thoroughly, I was able to enhance the overall readability and usability of the codebase.
+
+•	Balancing Complexity and Simplicity: Striking the right balance between complexity and simplicity in game logic is crucial. While it is essential to provide players with a rich and engaging gaming experience, it is equally important to ensure that the underlying code remains comprehensible and maintainable.
+
+•	Iterative Development and Testing: Adopting an iterative development approach enabled me to incrementally enhance the code while continuously testing and validating each enhancement. This iterative cycle of development, testing, and refinement proved invaluable in identifying and addressing potential issues early in the process.
+
+# Overall, the enhancement process not only honed my technical skills but also instilled a deeper appreciation for the nuances of software design and engineering. Through perseverance and diligence, I was able to elevate the Farkle game code to a higher standard, thereby showcasing my evolving proficiency in software development.
 
 
-# Professional Communication
-Objective and Outcome Alignment: I designed, developed, and delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. Effective communication is essential in conveying complex technical concepts and fostering understanding among diverse stakeholders.
-
-Description and Implementation: I ensured that all project documentation, including code comments, README files, and project reports, adhered to professional communication standards. Clear and concise explanations were provided for each enhancement made to the Farkle game, enabling stakeholders to comprehend the rationale behind design decisions and implementation details.
-
-# Algorithmic Design and Evaluation
-Objective and Outcome Alignment: I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices while managing the trade-offs involved in design choices. This involved optimizing data structures and algorithms to improve the efficiency and scalability of the Farkle game.
-
-Description and Implementation: I thoroughly analyzed the existing codebase to identify areas for optimization, particularly focusing on the scoring logic and game mechanics. By employing algorithmic principles such as time complexity analysis and optimization techniques, I implemented enhancements that significantly improved the game's performance and responsiveness.
-
-# Software Engineering Practices
-Objective and Outcome Alignment: I demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for implementing computer solutions that deliver value and accomplish industry-specific goals. This included adhering to software engineering principles, design patterns, and industry standards throughout the development process.

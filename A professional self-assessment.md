@@ -17,8 +17,11 @@ During my time in the program, I have engaged in a rigorous curriculum designed 
 
 # Integration and Summary of Artifacts
 The artifacts presented in this ePortfolio represent a curated collection of my best work, demonstrating a wide range of skills from algorithm optimization to full-scale software development and security implementation. These projects are not standalone achievements but interconnected examples that collectively display my comprehensive skill set:
+
 •	Modularity and Maintenance: Each project, including the Farkle game, was developed with high modularity and maintainability, using best practices in software architecture to ensure that future enhancements could be integrated seamlessly.
+
 •	Innovative Problem-Solving: The projects highlight my ability to apply creative and effective solutions to complex problems, showcasing my capacity to leverage new technologies and methodologies to achieve optimal results.
+
 •	Preparedness for Professional Challenges: The systematic approach to each project and the meticulous attention to detail prepare me for the complexities of real-world tech environments, where adaptability and proficiency are paramount.
 
 # Conclusion

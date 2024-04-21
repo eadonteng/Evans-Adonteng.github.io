@@ -32,9 +32,9 @@ To gain insight into my professional growth and how I've leveraged my educationa
 # How to Navigate
 Understanding the Game: Start by reviewing the farkle_rules.txt in the /documentation folder to understand the basic rules and gameplay.
 
-Start with /original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
+Start with original_artifact: Review farkle_original.cpp to understand the baseline functionality of the game.
 
-Explore /enhanced_artifact: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
+Explore enhanced_artifact: Examine each enhanced version to see specific improvements and features added in different aspects of the game.
 
 Read /documentation/farkle_enhanaced_narratives: Gain insights into the technical decisions, implementation details, and how these enhancements align with professional and academic goals.
 

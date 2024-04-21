@@ -17,7 +17,7 @@ The decision to include this artifact in my ePortfolio is grounded in its demons
 
 •	Input Validation: The code incorporates robust input validation mechanisms to ensure the integrity and consistency of user inputs. By validating user input against predefined criteria, potential errors and inconsistencies are preemptively mitigated, thereby enhancing the reliability and robustness of the game.
 
-# Alignment with Course Outcomes
+## Alignment with Course Outcomes
 The enhancements made to the Farkle game code align closely with the overarching objectives of the CS 499 course, particularly in the realm of software design and engineering. These enhancements demonstrate proficiency in the following areas:
 
 •	Collaborative Environments: Throughout the enhancement process, collaboration among team members was fostered through regular communication and feedback exchange. By soliciting input from diverse audiences, decisions regarding design choices and implementation strategies were informed by multiple perspectives, resulting in a more refined and robust solution.
@@ -37,6 +37,6 @@ Reflection on the Enhancement Process
 
 •	Iterative Development and Testing: Adopting an iterative development approach enabled me to incrementally enhance the code while continuously testing and validating each enhancement. This iterative cycle of development, testing, and refinement proved invaluable in identifying and addressing potential issues early in the process.
 
-Overall, the enhancement process not only honed my technical skills but also instilled a deeper appreciation for the nuances of software design and engineering. Through perseverance and diligence, I was able to elevate the Farkle game code to a higher standard, thereby showcasing my evolving proficiency in software development.
+## Overall, the enhancement process not only honed my technical skills but also instilled a deeper appreciation for the nuances of software design and engineering. Through perseverance and diligence, I was able to elevate the Farkle game code to a higher standard, thereby showcasing my evolving proficiency in software development.
 
 

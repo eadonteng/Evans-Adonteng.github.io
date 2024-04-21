@@ -19,6 +19,8 @@ farkle_enhanced_algorithms and data structure.cpp - Contains optimizations relat
 # /documentation
 farkle_enhanced_narratives - Comprehensive documents explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.
 
+farkle_rules.txt - Game rules that outline how to play Farkle, ensuring all players and reviewers can easily understand the gameplay mechanics.
+
 # /videos
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 

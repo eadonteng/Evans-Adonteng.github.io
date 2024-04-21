@@ -10,7 +10,9 @@ During my time in the program, I have engaged in a rigorous curriculum designed 
 
 # Core Technical Competencies
 •	Data Structures and Algorithms: My coursework included advanced studies in data structures and algorithms, where I learned to optimize solutions for efficiency and performance. In the Farkle game project, I applied these skills to enhance the scoring algorithm, significantly reducing computational overhead and improving gameplay speed.
+
 •	Software Engineering and Database Management: I have gained extensive knowledge in software engineering principles and database management through practical applications. In the enhanced Farkle game, I integrated SQLite to manage game state and high scores, which involved designing a robust database schema and implementing secure SQL transactions to handle data effectively and safely.
+
 •	Security Practices: Security has been a focal point in my education. I implemented security measures in all my projects, particularly in database management, where I used encryption and secure access protocols to protect user data. This practice not only safeguarded the information but also taught me the critical importance of privacy and data protection in software development.
 
 # Integration and Summary of Artifacts

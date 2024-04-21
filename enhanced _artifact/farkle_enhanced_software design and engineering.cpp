@@ -1,7 +1,7 @@
 /**
  * Farkle Game - Enhanced Version
  * Author: Evans Adonteng
- * Date: 25 March 2024
+ * Date: 21 April 2024
  * Version: 1.0
  *
  * Description:

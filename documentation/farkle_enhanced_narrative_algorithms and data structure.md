@@ -1,7 +1,7 @@
 # Enhanced Farkle Game Narrative
-Evans Adonteng 
-Date: 21 April 2024 
-Version: 2.0
+## Evans Adonteng 
+## Date: 21 April 2024 
+## Version: 2.0
 
 # Introduction
 In this project, I focused on enhancing a console-based Farkle game initially developed during my computer science coursework. The objective was to apply advanced programming concepts, improve the game's performance and user experience, and ensure adherence to professional software development standards.

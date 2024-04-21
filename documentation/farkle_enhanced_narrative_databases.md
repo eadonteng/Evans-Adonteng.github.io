@@ -1,7 +1,7 @@
-Enhanced Farkle Game Narrative
-Evans Adonteng 
-Date: 06 April 2024 
-Version: 3.0
+# Enhanced Farkle Game Narrative
+## Evans Adonteng 
+## Date: 21 April 2024 
+## Version: 3.0
 
 # Artifact Description
  The selected artifact for enhancement is an improved version of a Farkle game implemented in C++, integrated with SQLite database functionality for managing high scores. 

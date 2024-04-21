@@ -37,6 +37,6 @@ Reflection on the Enhancement Process
 
 •	Iterative Development and Testing: Adopting an iterative development approach enabled me to incrementally enhance the code while continuously testing and validating each enhancement. This iterative cycle of development, testing, and refinement proved invaluable in identifying and addressing potential issues early in the process.
 
-# Overall, the enhancement process not only honed my technical skills but also instilled a deeper appreciation for the nuances of software design and engineering. Through perseverance and diligence, I was able to elevate the Farkle game code to a higher standard, thereby showcasing my evolving proficiency in software development.
+Overall, the enhancement process not only honed my technical skills but also instilled a deeper appreciation for the nuances of software design and engineering. Through perseverance and diligence, I was able to elevate the Farkle game code to a higher standard, thereby showcasing my evolving proficiency in software development.
 
 

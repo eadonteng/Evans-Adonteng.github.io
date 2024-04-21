@@ -10,11 +10,11 @@ This repository is organized to clearly present the original game code alongside
 farkle_original.cpp - The original version of the Farkle game code.
 
 # /enhanced_artifacts
-farkle_enhanced_software_design.cpp - Showcases enhancements in software design and engineering.
+farkle_enhanced_software design and engineering.cpp - Showcases enhancements in software design and engineering.
 
 farkle_enhanced_databases.cpp - Demonstrates integration with SQLite for managing high scores.
 
-farkle_enhanced_algorithms.cpp - Contains optimizations related to game logic and scoring algorithms.
+farkle_enhanced_algorithms and data structure.cpp - Contains optimizations related to game logic and scoring algorithms.
 
 # /documentation
 farkle_enhanced_narratives - Comprehensive documents explaining the journey, rationale behind enhancements, and how these align with specific course outcomes.

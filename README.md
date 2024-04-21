@@ -26,6 +26,9 @@ Professional_Self_Assessment.md — A reflective overview of my professional dev
 # /videos
 Code Review Video - A link to a video where I discuss the code enhancements and demonstrate the game.
 
+# /Professional Self-Assessment
+To gain insight into my professional growth and how I've leveraged my educational experiences to prepare for a career in computer science, please refer to my Professional Self-Assessment.
+
 # How to Navigate
 Understanding the Game: Start by reviewing the farkle_rules.txt in the /documentation folder to understand the basic rules and gameplay.
 
